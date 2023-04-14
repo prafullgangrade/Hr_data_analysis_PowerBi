@@ -40,3 +40,4 @@ here is the active power bi dashboard file:
 
 **link** 
 
+https://github.com/prafullgangrade/Hr_data_analysis_PowerBi.git
